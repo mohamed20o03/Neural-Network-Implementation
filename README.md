@@ -12,8 +12,11 @@ This project implements a simple neural network from scratch using Python and Nu
 
 ## Project Structure
 ### Neural-Network-Implementation
-├──  Value.py          # Custom class for handling computation graph and automatic differentiation.
-├──  NeuralNetworks.py # Implements the MLP model.
-├──  train.py          # Training script.
-└──  README.md         # Project documentation.
+├──  Value.py          # Custom class for handling computation graph and automatic differentiation
+
+├──  NeuralNetworks.py # Implements the MLP model
+
+├──  train.py          # Training script
+
+└──  README.md         # Project documentation
 
