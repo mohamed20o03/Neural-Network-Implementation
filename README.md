@@ -11,7 +11,9 @@ This project implements a simple neural network from scratch using Python and Nu
 ✅ **Backpropagation**: The model computes gradients and updates weights using backpropagation.  
 
 ## Project Structure
-├── Value.py         # Custom class for handling computation graph and automatic differentiation
-├── NeuralNetworks.py # Implements the MLP model
-├── train.py         # Training script
-└── README.md        # Project documentation
+### Neural-Network-Implementation
+├──  Value.py          # Custom class for handling computation graph and automatic differentiation.
+├──  NeuralNetworks.py # Implements the MLP model.
+├──  train.py          # Training script.
+└──  README.md         # Project documentation.
+
